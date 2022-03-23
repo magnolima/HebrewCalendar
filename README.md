@@ -5,7 +5,7 @@ B"SD
 
 Shalom aleichem!
 
-These a conversion from the original javaScript functions for *Positional Astronomy*, by John Walker -- September, MIM (http://www.fourmilab.ch/).
+These are a conversion from the original javaScript functions for *Positional Astronomy*, by John Walker -- September, MIM (http://www.fourmilab.ch/).
 This program is in the public domain. [^1]
 
 Not all functions are exposed, but mainly we have:
