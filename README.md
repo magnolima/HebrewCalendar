@@ -20,7 +20,7 @@ Not all functions are exposed, but mainly we have:
 ```
 This was a project I did to help a friend to make his application and he was struggling as Delphi doesn't have such functions and of course these are a bit hard to find.
 
-Together the HebrewCalendar.pas I am also incluing an *Astromonical Calculator*, again from John Walker, but these one I just made the 1st pass from conversion, so the functions and methods are named same way the original software is. The Hebrew Calendar doesn't depends on this astronomical lib to be included.
+Together the HebrewCalendar.pas I am also incluing an *Astronomical Calculator*, again from John Walker, but these one I just made the 1st pass from conversion, so the functions and methods are named same way the original software is. The Hebrew Calendar doesn't depends on this astronomical lib to be included.
 
 Feel free to improve it.
 
